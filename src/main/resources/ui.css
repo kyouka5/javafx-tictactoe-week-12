@@ -1,0 +1,8 @@
+.square {
+  -fx-border-style: solid;
+  -fx-background-color: white;
+}
+
+.square.inGame:hover {
+  -fx-background-color: yellow;
+}

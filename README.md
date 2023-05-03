@@ -1,3 +1,3 @@
-# TODO: a title for your project
+# TicTacToe
 
-TODO: a detailed description of your project (must contain at least the original description of the assignment)
+A quite simple implementation of the original 3x3 TicTacToe in JavaFX.
